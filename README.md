@@ -1,4 +1,3 @@
-````markdown
 # Car Parking Space Detection Project
 
 This project implements a car parking space detection system using OpenCV and cvzone. It allows users to manually mark parking spaces on a static image and detect the occupancy of these spaces in another static image.
@@ -127,6 +126,4 @@ python main.py
   ```bash
   pip install --force-reinstall cvzone
   ```
-
----
 
