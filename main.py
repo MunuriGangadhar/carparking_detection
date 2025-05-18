@@ -137,7 +137,7 @@ import cvzone
 import numpy as np
 
 # Load image
-img = cv2.imread('Image.png')  # Ensure the image path is correct
+img = cv2.imread('output2.png')  # Ensure the image path is correct
 if img is None:
     raise FileNotFoundError("Image.png not found. Please check the file path.")
 
